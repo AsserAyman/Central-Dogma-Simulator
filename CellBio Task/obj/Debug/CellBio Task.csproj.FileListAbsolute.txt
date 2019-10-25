@@ -1,0 +1,36 @@
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe.config
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\bin\Debug\CellBio Task.pdb
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form1.resources
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form2.resources
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form3.resources
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Properties.Resources.resources
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio Task.pdb
+C:\Users\Asser Ayman\source\repos\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe.config
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\bin\Debug\CellBio Task.pdb
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.MainPage.resources
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form2.resources
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form3.resources
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Properties.Resources.resources
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\Desktop\CellBio Task\CellBio Task\obj\Debug\CellBio Task.pdb
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe.config
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\bin\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\bin\Debug\CellBio Task.pdb
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.MainPage.resources
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form2.resources
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Form3.resources
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio_Task.Properties.Resources.resources
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio Task.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio Task.exe
+C:\Users\Asser Ayman\Downloads\CellBio Task\CellBio Task\obj\Debug\CellBio Task.pdb
